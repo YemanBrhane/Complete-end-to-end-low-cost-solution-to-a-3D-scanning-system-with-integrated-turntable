@@ -5,5 +5,8 @@ In this project a full 3D scanning system was designed which included a low cost
 - QT
 - Point cloud Library (PCL)
 - OpenGL
+- OpenNI
+- VTK
+- Arduino
 
 
